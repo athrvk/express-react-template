@@ -1,2 +1,2 @@
-# express-react-template
-A template for react app with express backend
+# react-node-express-es6-heroku-template
+React + Node (Express, compiled with es6)  + Heroku Template
